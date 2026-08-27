@@ -3,7 +3,7 @@ projects completed in Computer Science 1
 
 My name is Hayden Hunter. This portfolio includes projects I completed in Computer Science 1.
 
-##Skills Practiced
+## Skills Practiced
 - variables
 - Input and Output
 - Loops
